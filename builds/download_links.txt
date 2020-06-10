@@ -1,0 +1,13 @@
+Vizati_1.0.exe
+The XNA version, was moved outside of the repo because it would hit my LFS (Large File Support)
+quickly, so here's are two links where to get it.
+
+
+itch.io: https://dj_link.itch.io/vizati
+Dropbox Direct Link: https://www.dropbox.com/s/im5kr82e16qv4ec/Vizati_1.0.exe?dl=1
+
+_____________________________________________
+Vizati_custom_engine.rar
+
+This is an unfinished, although fully playable version made in a custom engine, this was done post-launch
+while working on internal framework to port the game to more platforms. It ended up powering my future projects.

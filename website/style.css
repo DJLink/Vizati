@@ -1,0 +1,176 @@
+@charset "utf-8";
+
+html{ margin:0px; padding:0px; }
+body{ 
+	margin:0px; padding:0px;
+	background-color:#000; }
+
+
+img
+{border:none;}
+
+.hidden
+{
+	display:none;
+	width:0px; height:0px;
+}
+
+#wrapper
+{
+	background-image:url(imgs/background.jpg);
+	background-repeat:no-repeat;
+	width:1154px;
+	min-height:990px;
+	margin:0px auto;
+
+}
+
+.content
+{
+	margin-left:80px;
+	width:1100px;
+	margin-top:50px;
+}
+
+#top_mnu
+{
+	width:100%;
+	height:112px;
+}
+
+ul{
+	clear: both;
+	list-style-type: none;
+	width:690px;
+
+	float:right;
+	height:112px;
+	margin-top:40px;
+}
+
+li{
+	width:151px;
+	float:left;
+}
+
+.tab_menu
+{
+	width:151px;
+	height:70px;
+	background-repeat:no-repeat;
+}
+
+.tab_menu_deac
+{
+	width:151px;
+	height:70px;
+	background-repeat:no-repeat;
+}
+
+.SlideTab
+{
+	margin-top:80px;
+}
+
+.tab_menu:hover
+{
+	cursor:pointer;
+}
+
+.vizati_unselected{	background-image:url(imgs/about_menu_unselected.png); }
+.vizati_selected{ background-image:url(imgs/about_menu_selected.png); }
+.vizati_unselected:hover{ background-image:url(imgs/about_menu_selected.png); }
+
+.pc_unselected{	background-image:url(imgs/pc_menu_unselected.png); }
+.pc_selected{	background-image:url(imgs/pc_menu_selected.png);}
+.pc_unselected:hover{	background-image:url(imgs/pc_menu_selected.png);}
+
+.iphone_unselected{	background-image:url(imgs/iphone_menu_unselected.png);}
+.iphone_selected{	background-image:url(imgs/iphone_menu_selected.png);}
+.iphone_unselected:hover{	background-image:url(imgs/iphone_menu_selected.png);}
+
+.wp7_unselected{	background-image:url(imgs/wp7_menu_unselected.png);}
+.wp7_selected{	background-image:url(imgs/wp7_menu_selected.png);}
+.wp7_unselected:hover{	background-image:url(imgs/wp7_menu_selected.png);}
+
+.pc_buy_links
+{
+	margin-top:30px;
+	width:670px;
+	float:right;
+}
+
+.iphone_buy_link
+{
+	margin-top:0px;
+	margin-left:60px;
+	float:left;
+}
+
+.pc_buy_link
+{
+	margin-left:30px;
+	margin-right:10px;
+}
+
+.demo_button
+{
+	margin-left:430px;
+	margin-top:30px;
+}
+
+.screenshots_container
+{
+	width:488px;
+	height:386px;
+	float:right;
+}
+
+#img_mnu
+{
+	width:489px;
+	height:50px;
+}
+
+.image_frame
+{
+	background-image:url(imgs/image_frame.png);
+	background-repeat:no-repeat;
+	width:477px;
+	height:270px;
+	padding-left:15px;
+	padding-top:15px;
+}
+
+.prevButton
+{
+	background-image:url(imgs/btn_back.png);
+	width:75px;
+	height:49px;
+	background-repeat:no-repeat;
+}
+
+.nextButton
+{
+	background-image:url(imgs/btn_forward.png);
+	width:75px;
+	height:49px;
+	background-repeat:no-repeat;
+}
+
+.gallery_buttons
+{
+	margin-top:0px;
+}
+
+.gallery_buttons li
+{
+	width:75px;
+}
+
+.transparent
+{
+	opacity:0.3;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)"; // first!
+	filter: alpha(opacity=30);
+}

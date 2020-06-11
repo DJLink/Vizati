@@ -13,6 +13,9 @@ This repo does not contain the source code, maybe one day. I know it's weird to 
 - Several promo screenshots
 - Original website, I didn't changed any of the code, just commented Google ad-sense code, the rest is as it was made, for better or worse.
 
+In case you want to add it to your itch.io library here's the link:
+[https://dj_link.itch.io/vizati](https://dj_link.itch.io/vizati)
+
 I hope you enjoy it!
 
 
